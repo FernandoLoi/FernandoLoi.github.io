@@ -15,7 +15,7 @@ body{
 .titulo{
     font-family: arial;
     font-size: 20px;  
-    text-align: center;
+    text-align: justify;
 }
 
 #linkedin{
@@ -25,19 +25,19 @@ body{
 footer{
     border:double;
     border-radius: 10px;
-    text-align: center;
+    text-align: justify;
     background-color: white;
     font-size: 20px;
 }
 
 p{
     font-size:15px;
-    text-align: center;
+    text-align: justify;
 }
 
 #menu{
     font-size: 15px;
-    text-align: center;
+    text-align: justify;
 }
 
 #Formacao{
@@ -76,5 +76,5 @@ header{
     border: double;
     border-radius: 10px;
     background-color:darkseagreen;
-    text-align: center;
+    text-align: justify;
 }
