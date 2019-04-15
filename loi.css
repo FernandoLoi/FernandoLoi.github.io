@@ -25,7 +25,7 @@ body{
 footer{
     border:double;
     border-radius: 10px;
-    text-align: justify;
+    text-align: center;
     background-color: white;
     font-size: 20px;
 }
